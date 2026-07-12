@@ -8,7 +8,7 @@ public class Dinosaurio {
     private int x, y, ancho, alto;
     private int velY;
     private boolean saltando;
-
+    // CAMBIOS EN EL SALTO
     private final int GRAVEDAD = 1;
     private final int FUERZA_SALTO = -20;
     //private final int SUELO_Y = 300;
